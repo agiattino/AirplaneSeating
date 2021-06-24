@@ -41,6 +41,7 @@ namespace PlaneChallenge
         static void Main(string[] args)
         {
             Plane plane = new Plane();
+            // plane.FlightNumber = "One1" ;
             plane.Seats = new List<Seat>();
 
             for (int i = 1; i <= 10; i++)
@@ -56,7 +57,7 @@ namespace PlaneChallenge
 
             foreach (Seat seat in plane.getAvailableSets())
             {
-                Console.WriteLine($"Seat: {seat.SeatNumber}");
+                Console.WriteLine($"AvailableSeat: {seat.SeatNumber} {seat.SeatPosition}");
             }
 
         }

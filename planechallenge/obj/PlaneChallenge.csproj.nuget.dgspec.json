@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\POberhau\\Documents\\Projects\\PlaneChallenge\\planechallenge\\PlaneChallenge.csproj": {}
+    "C:\\Users\\agiattin\\nelnetProjects\\AirplaneSeating\\airplaneseating\\planechallenge\\PlaneChallenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\POberhau\\Documents\\Projects\\PlaneChallenge\\planechallenge\\PlaneChallenge.csproj": {
+    "C:\\Users\\agiattin\\nelnetProjects\\AirplaneSeating\\airplaneseating\\planechallenge\\PlaneChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\POberhau\\Documents\\Projects\\PlaneChallenge\\planechallenge\\PlaneChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\agiattin\\nelnetProjects\\AirplaneSeating\\airplaneseating\\planechallenge\\PlaneChallenge.csproj",
         "projectName": "PlaneChallenge",
-        "projectPath": "C:\\Users\\POberhau\\Documents\\Projects\\PlaneChallenge\\planechallenge\\PlaneChallenge.csproj",
-        "packagesPath": "C:\\Users\\POberhau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\POberhau\\Documents\\Projects\\PlaneChallenge\\planechallenge\\obj\\",
+        "projectPath": "C:\\Users\\agiattin\\nelnetProjects\\AirplaneSeating\\airplaneseating\\planechallenge\\PlaneChallenge.csproj",
+        "packagesPath": "C:\\Users\\agiattin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\agiattin\\nelnetProjects\\AirplaneSeating\\airplaneseating\\planechallenge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\POberhau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\agiattin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
